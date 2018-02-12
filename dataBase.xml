@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TaxiDispatcher>
+    <client ID="af82040f-37f6-3j9t-94d0-c286448btr51" Login="Monsoon" Pass="1498" Name="Artiom" BornDate="02.05.1993" PhoneNumber="89276263263"/>
+    <client ID="af82040f-37f6-3j9t-94d0-c286168bfa63" Login="Sergio" Pass="2131" Name="Sergey" BornDate="01.08.1984" PhoneNumber="89276763281"/>
+    <call ID="49ddaee6-f470-3u6e-941b-e78792d36366" Date="02.07.2015" ClientId="af82040f-37f6-3j9t-94d0-c286448btr51" TaxiId="cd900046-fb33-3ui8-ae74-89bfe145089e" StartPoint="Moskovskaya 12" Destination="Petrovskaya 11"/>
+    <call ID="49ddaee6-f470-3u6e-941b-e78792d38139" Date="04.11.2016" ClientId="af82040f-37f6-3j9t-94d0-c286168bfa63" TaxiId="cd900046-fb33-3ui8-ae74-89bfe145291t" StartPoint="Piterskaya 24" Destination="Ivanovskaya 5"/>
+    <taxi ID="cd900046-fb33-3ui8-ae74-89bfe145089e" DriverName="Michail Orlov" CarNumber="F149OP" CarModel="VAZ 2110"/>
+    <taxi ID="cd900046-fb33-3ui8-ae74-89bfe145291t" DriverName="Oleg Saharov" CarNumber="G788NM" CarModel="VAZ 2118"/>
+</TaxiDispatcher>
